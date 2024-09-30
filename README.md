@@ -1,7 +1,7 @@
 # Instalación de Drivers GPU AMD (ROCm)
 
-## Comandos Utilizados
-
+## Comandos Utilizados en computador Windows mediante microsoft store -> Ubuntu 20.04.6 LTS
+ 
 1. Actualiza la lista de paquetes y el sistema:
     ```bash
     sudo apt update
