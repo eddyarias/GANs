@@ -13,7 +13,7 @@
     sudo apt install gnupg2 libncurses5 libnuma-dev libtinfo5
     ```
 
-3. Descarga el paquete de instalación de AMDGPU (nota: asegúrate de eliminar el espacio después de `https:`):
+3. Descarga el paquete de instalación de AMDGPU:
     ```bash
     wget https://repo.radeon.com/amdgpu-install/5.4.2/ubuntu/focal/amdgpu-install_5.4.50402-1_all.deb
     ```
